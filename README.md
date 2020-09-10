@@ -11,7 +11,7 @@
  </p>
  
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Álvaro Torres Carrasco | 💻 Back-end Developer | 🛸 Seville <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 🙎 Álvaro Torres Carrasco | 💻 Back-end Developer | 🛸 Seville </h3>
 </div>
 
 <p align="center" >
