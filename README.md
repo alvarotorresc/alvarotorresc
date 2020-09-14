@@ -27,4 +27,5 @@
   <img height="40" src="https://img.shields.io/badge/typescript-blue?logo=typescript" alt="html" style="vertical-align:top; margin:4px">
    <img height="40" src="https://img.shields.io/badge/python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
 </p>
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
