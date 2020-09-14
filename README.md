@@ -24,7 +24,7 @@
 ### - Languages and Tools...
 
 <p align="center">
-  <img src="https://img.shields.io/badge/typescript-blue?logo=typescript" alt="html" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
+  <img height="40" src="https://img.shields.io/badge/typescript-blue?logo=typescript" alt="html" style="vertical-align:top; margin:4px">
+   <img height="40" src="https://img.shields.io/badge/python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
 </p>
 
