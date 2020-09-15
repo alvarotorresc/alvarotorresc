@@ -23,6 +23,7 @@
 <img height="40" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="40" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="40" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+<img height="40" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 
 </p>
 
