@@ -34,6 +34,12 @@
 <img height="30" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=PostgreSQL&logoColor=004466" alt="html" style="vertical-align:top;margin:4px">
 </p>
 
+<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
 
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center" >
@@ -43,9 +49,4 @@
    <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorresc&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </p>
 
-<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+
