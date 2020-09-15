@@ -13,8 +13,6 @@
 <div align="center">
 <h3> 🙎 Álvaro Torres Carrasco | 💻 Back-end Developer | 🛸 Seville </h3>
 </div>
-<br />
-<br />
 
 <h2 align="center">Languages and Frameworks</h2>
 
