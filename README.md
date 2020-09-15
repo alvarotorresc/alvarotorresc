@@ -33,8 +33,8 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img height='170px'  src="https://github-readme-stats.vercel.app/api?username=alvarotorresc&&show_icons=true&theme=radical"/>
+    <img height='130px'  src="https://github-readme-stats.vercel.app/api?username=alvarotorresc&&show_icons=true&theme=radical"/>
   </a>
-   <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorresc&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+   <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorresc&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </p>
 &nbsp;
