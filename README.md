@@ -4,11 +4,6 @@
    <h1>Hi there, I'm <a href="https://www.alvarotorrescarrasco.com">Alvaro</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
  
 <div align="center">
 <h3> 🙎 Álvaro Torres Carrasco | 💻 Back-end Developer | 🛸 Seville </h3>
@@ -47,4 +42,10 @@
   </a>
    <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorresc&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </p>
-&nbsp;
+
+<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
