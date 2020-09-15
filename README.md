@@ -15,7 +15,8 @@
 </div>
 <br />
 <br />
-### - Languages and Frameworks...
+
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages and Frameworks</h2>
 
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -36,3 +37,4 @@
   </a>
    <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorresc&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </p>
+&nbsp;
