@@ -24,11 +24,20 @@
 <img height="40" src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
    <br>
 <img height="40" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+   <img height="40" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+
 <img height="40" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
-<img height="40" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="40" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 
+
 </p>
+
+<img height="40" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
+<img height="40" src="https://img.shields.io/badge/-Docker-0099ff?style=flat&logo=Docker&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
+<img height="40" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
+<img height="40" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
+
+
 
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center" >
