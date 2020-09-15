@@ -16,7 +16,9 @@
 <br />
 <br />
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Languages and Frameworks</h2>
+<h2 alt="html" align="center">Languages and Frameworks</h2>
+
+<br />
 
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
