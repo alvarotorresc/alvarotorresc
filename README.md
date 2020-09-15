@@ -16,7 +16,7 @@
 
 <br />
 
-<h2 align="center">Languages and Frameworks</h2>
+<h2 align="center">🛠 &nbsp;Languages and Frameworks</h2>
 
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -30,7 +30,7 @@
 
 </p>
 
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img height='130px'  src="https://github-readme-stats.vercel.app/api?username=alvarotorresc&&show_icons=true&theme=radical"/>
