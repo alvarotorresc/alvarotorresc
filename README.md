@@ -30,7 +30,7 @@
 <img height="40" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 </p>
 
-<h2 align="center">🛠 &nbsp;Languages and Frameworks</h2>
+<h2 align="center">🛠 &nbsp;Technologies and Tools</h2>
 
 <p align="center">
 <img height="40" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
