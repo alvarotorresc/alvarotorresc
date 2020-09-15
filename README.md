@@ -30,7 +30,7 @@
 
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img height='130px'  src="https://github-readme-stats.vercel.app/api?username=alvarotorresc&&show_icons=true&theme=radical"/>
