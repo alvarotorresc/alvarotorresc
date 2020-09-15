@@ -19,15 +19,15 @@
 <h2 align="center">🛠 &nbsp;Languages and Frameworks</h2>
 
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-  <img height="40" src="https://img.shields.io/badge/Python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
-<img height="40" src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+  <img height="30" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+  <img height="30" src="https://img.shields.io/badge/Python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
+<img height="30" src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
    <br>
-<img height="40" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
-   <img height="40" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+<img height="30" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+   <img height="30" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 
-<img height="40" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
-<img height="40" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+<img height="30" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+<img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 </p>
 
 <h2 align="center">	:wrench:	 &nbsp;Technologies and Tools</h2>
