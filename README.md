@@ -25,7 +25,6 @@
 
 
 
-<div align="center">
   <div align="left">
       <h2 align="center">	:wrench:	 &nbsp;Technologies and Tools</h2>
       <img height="30" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
@@ -40,7 +39,6 @@
       <a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
       <a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
    </div>
-</div>
 
 
 <p align='center'>
