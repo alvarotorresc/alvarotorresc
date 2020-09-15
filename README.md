@@ -20,6 +20,7 @@
   <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
   <img height="40" src="https://img.shields.io/badge/Python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
 <img height="40" src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
+   <br>
 <img height="40" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=Typescript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="40" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="40" src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
