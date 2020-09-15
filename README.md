@@ -23,10 +23,11 @@
 <img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 </p>
 
-<h2 align="center">	:wrench:	 &nbsp;Technologies and Tools</h2>
+
 
 <p align="center">
    <p align="left">
+      <h2 align="center">	:wrench:	 &nbsp;Technologies and Tools</h2>
       <img height="30" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
       <img height="30" src="https://img.shields.io/badge/-Docker-0099ff?style=flat&logo=Docker&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
       <img height="30" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
@@ -34,13 +35,14 @@
    </p>
    
    <p align="right>
+      <h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
       <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">         </a>&nbsp;&nbsp;
       <a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
       <a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
    </p>
 </p>
 
-<h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
