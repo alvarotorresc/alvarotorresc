@@ -18,9 +18,9 @@
 
 <p align="center">
   <img height="40" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-  <img height="40" src="https://img.shields.io/badge/python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
+  <img height="40" src="https://img.shields.io/badge/Python-black?logo=python" alt="html" style="vertical-align:top; margin:4px">
+   <img height="40" src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top; margin:4px">
 </p>
-
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
