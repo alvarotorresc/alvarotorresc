@@ -9,7 +9,7 @@
 <h3> 🙎 Álvaro Torres Carrasco | 💻 Back-end Developer | 🛸 Seville </h3>
 </div>
 
-<h2 align="center">🛠 &nbsp;Languages and Frameworks</h2>
+<h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
 <p align="center">
   <img height="30" src="https://img.shields.io/badge/-Django-0e3d06?style=flat&logo=Django&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
@@ -22,7 +22,7 @@
 <img height="30" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 
-   
+   <br>
    <img height="30" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
    <img height="30" src="https://img.shields.io/badge/-Docker-0099ff?style=flat&logo=Docker&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
    <img height="30" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
