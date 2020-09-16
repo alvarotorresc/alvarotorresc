@@ -41,13 +41,6 @@
    <a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 </div>
 
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/alvaro-torres-carrasco/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/torresc_alvaro"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/alvarotorresc"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
