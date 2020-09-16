@@ -21,17 +21,13 @@
 
 <img height="30" src="https://img.shields.io/badge/-NestJS-ff0000?style=flat&logo=NestJS&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
 <img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=black?labelColor=abcdef" alt="html" style="vertical-align:top;margin:4px">
-</p>
 
-
-<h2 align="center">	:wrench:	 &nbsp;Technologies and Tools</h2>
-<div align="center">
    
    <img height="30" src="https://img.shields.io/badge/-GraphQL-cc0099?style=flat&logo=GraphQL" alt="html" style="vertical-align:top;margin:4px">
    <img height="30" src="https://img.shields.io/badge/-Docker-0099ff?style=flat&logo=Docker&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
    <img height="30" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux&logoColor=white" alt="html" style="vertical-align:top;margin:4px">
    <img height="30" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=PostgreSQL&logoColor=004466" alt="html" style="vertical-align:top;margin:4px">
-</div>
+</p>
 
 <h2 align="center">🤝🏻 &nbsp;Connect with Me</h2>
 <div align="center">
